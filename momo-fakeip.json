@@ -35,7 +35,7 @@
     {"tag": "🐬 OneDrive", "type": "selector", "outbounds": ["🇺🇲 美国手动", "🐸 手动选择"]},
     {"tag": "🍏 Apple", "type": "selector", "outbounds": ["🎯 全球直连", "🇺🇲 美国手动"]},
     {"tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
-    {"tag": "🇺🇲 美国手动", "type": "selector", "outbounds": []},
+    {"tag": "🇺🇲 美国手动", "type": "selector", "outbounds": null, "use_all_providers": true, "include": "🇺🇸|US|us|美国|美|United States", "exclude": "日"},
     {"tag": "🐸 手动选择", "type": "selector", "outbounds": []},
     {"tag": "♻️ 自动选择", "type": "urltest", "outbounds": []},
     {"tag": "🍃 延迟辅助", "type": "urltest", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
