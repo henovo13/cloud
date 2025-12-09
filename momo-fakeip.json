@@ -36,8 +36,8 @@
     {"tag": "🍏 Apple", "type": "selector", "outbounds": ["🎯 全球直连", "🇺🇲 美国手动"]},
     {"tag": "🐠 漏网之鱼", "type": "selector", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
     {"tag": "🇺🇲 美国手动", "type": "selector", "outbounds": null, "use_all_providers": true, "include": "🇺🇸|US|us|美国|美|United States", "exclude": "日"},
-    {"tag": "🐸 手动选择", "type": "selector", "outbounds": []},
-    {"tag": "♻️ 自动选择", "type": "urltest", "outbounds": []},
+    {"tag": "🐸 手动选择", "type": "selector", "outbounds": null, "use_all_providers": true, "exclude": "网站|流量|地址|剩余|过期|免费|时间|有效|Traffic|ExpireDate|GB|Expire Date"},
+    {"tag": "♻️ 自动选择", "type": "urltest", "outbounds": null, "fallback": { "enabled": true, "max_delay": "200ms" }, "use_all_providers": true, "interval": "10m","exclude":"网站|流量|地址|剩余|过期|免费|时间|有效|Traffic|ExpireDate|GB|Expire Date"},
     {"tag": "🍃 延迟辅助", "type": "urltest", "outbounds": ["🚀 默认代理", "🎯 全球直连"]},
     {"tag": "GLOBAL", "type": "selector", "outbounds": ["🚀 默认代理", "🧠 AI", "📹 YouTube", "🍀 Google", "👨‍💻 Github", "📲 Telegram", "🎵 TikTok", "🎥 Netflix", "💶 PayPal", "🎮 Steam", "🪟 Microsoft", "🐬 OneDrive", "🍏 Apple", "🐠 漏网之鱼", "🇺🇲 美国手动", "🐸 手动选择", "♻️ 自动选择", "🍃 延迟辅助", "🎯 全球直连"]},
     {"tag": "🎯 全球直连", "type": "direct"}
