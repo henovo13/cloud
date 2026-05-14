@@ -1,0 +1,27 @@
+#EXTM3U x-tvg-url="http://172.17.0.2:5180/epg/epg.gz"
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
+http://113.241.133.180:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png",CCTV5
+http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://192.168.1.10/github/png/CCTV5+.png",CCTV5+
+http://113.241.133.180:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="http://192.168.1.10/github/png/CCTV5+.png",CCTV5+
+http://120.238.94.82:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
+http://183.129.255.66:8480/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://192.168.1.10/github/png/CCTV16.png",CCTV16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://192.168.1.10/github/png/翡翠台.png",翡翠台
+http://122.100.242.52:12179/stream/channelid/614956956?profile=pass
+#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="http://192.168.1.10/github/png/TVBPlus.png",TVBPlus
+http://rihou.cc:555/tv/[Pd]Plus综合
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="http://192.168.1.10/github/png/HOY77.png",HOY77
+http://rihou.cc:555/tv/[Cx]有线综合
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="http://192.168.1.10/github/png/HOY77.png",HOY77
+http://rihou.cc:555/tv/[Pd]有线综合
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="http://192.168.1.10/github/png/明珠台.png",明珠台
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="http://192.168.1.10/github/png/CCTV5.png" group-title="🕘️更新时间",2026-05-14 22:53:41
+http://113.241.133.180:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
