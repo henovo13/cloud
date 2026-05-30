@@ -68,13 +68,13 @@
       "type": "selector",
       "tag": "🚀 节点选择",
       "interrupt_exist_connections": true,
-      "outbounds": []
+      "outbounds": ["{all}"]
     },
     {
       "type": "selector",
       "tag": "🇺🇸 美国",
       "interrupt_exist_connections": true,
-      "outbounds": []
+      "outbounds": ["{all}"]
     },
     {
       "type": "selector",
