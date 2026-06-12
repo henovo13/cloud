@@ -1,10 +1,28 @@
 {
-  "version": 3,
+  "version": 1,
   "rules": [
-    { "domain_suffix": ["agedm.io"] },
-    { "domain_suffix": ["google.com"] },    
-    { "domain_suffix": ["tencent-cloud.net"] },
-    { "domain_suffix": ["wise.com"] },    
-    { "domain_suffix": ["5288.eu.org"] }
+    {
+      "domain": [
+        "local.router",
+        "my-nas.lan"
+      ],
+      "domain_suffix": [
+        ".cn",
+        "baidu.com",
+        "google.com",
+        "taobao.com",        
+        "tencent-cloud.net",        
+        "jellyfin.local"
+      ],
+      "domain_keyword": [
+        "huawei",
+        "tencent"
+      ],
+      "ip_cidr": [
+        "192.168.0.0/16",
+        "10.0.0.0/8",
+        "172.16.0.0/12"
+      ]
+    }
   ]
 }
