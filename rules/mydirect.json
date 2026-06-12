@@ -9,9 +9,7 @@
       "domain_suffix": [
         ".cn",
         "baidu.com",
-        "google.com",
         "taobao.com",        
-        "tencent-cloud.net",        
         "jellyfin.local"
       ],
       "domain_keyword": [
