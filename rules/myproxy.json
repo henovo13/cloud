@@ -8,6 +8,10 @@
       ],
       "domain_suffix": [
         "cloudflare.com",
+        "google.com",
+        "youtube.com",
+        "wikipedia.org",
+        "x.com",
         "v2ex.com",
         "github.com"
       ],
