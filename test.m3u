@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/henovo13/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/henovo13/cloud/main/png/CNA.png" group-title="喜爱的台",CNA
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="http://192.168.1.10/share/png/翡翠台.png" group-title="喜爱的台",翡翠台
+http://r.jdshipin.com/GeWKr?id=fct720
