@@ -11,15 +11,12 @@
         "baidu.com",
         "taobao.com",
         "jdshipin.com", 
-        "dangbei.com", 
-        "4kvm.cc",
-        "4kvm.top",
-        "4kvm.me", 
-        "4kvm.org",  
-        "4kvm.tv",
-        "4kvm.net",        
+        "dangbei.com",         
         "jellyfin.local"
-      ]
+      ],
+      "domain_keyword": [       
+        "4kvm"
+      ],      
     }
   ]
 }
