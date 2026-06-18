@@ -12,7 +12,11 @@
         "taobao.com",
         "jdshipin.com", 
         "dangbei.com",         
-        "jellyfin.local"
+        "jellyfin.local",
+        "ubuntu.com",
+        "ubuntu.net",
+        "ubuntuforums.org",
+        "ubuntu-touch.io"        
       ],
       "domain_keyword": [       
         "4kvm"
