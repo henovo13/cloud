@@ -8,16 +8,9 @@
       ],
       "domain_suffix": [
         "cloudflare.com",
-        "google.com",
-        "youtube.com",
-        "wikipedia.org",
-        "x.com",
-        "v2ex.com",
-        "github.com"
-      ],
-      "domain_keyword": [
-        "facebook",
-        "instagram",        
+        "tvbanywherena.com",
+        "v2ex.com"      ],
+      "domain_keyword": [       
         "tvbanywherena"
       ],
       "ip_cidr": [
